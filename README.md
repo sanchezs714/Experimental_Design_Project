@@ -1,2 +1,2 @@
 # Experimental_Design_Project
-first thinkful project
+An analysis of a business research project
